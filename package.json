@@ -1,0 +1,22 @@
+{
+  "name": "kloud-app",
+  "version": "1.0.0",
+  "engines": {
+    "node": "8.9.3"
+  },
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bufferutil": "3.0.3",
+    "express": "4.16.2",
+    "utf-8-validate": "4.0.0",
+    "ws": "4.0.0"
+  }
+}
